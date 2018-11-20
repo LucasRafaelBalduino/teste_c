@@ -1,4 +1,4 @@
-// aula_01.cpp : Define o ponto de entrada para a aplicação de console.
+// aula_01.cpp : Define o ponto de entrada para a aplicaÃ§Ã£o de console.
 //
 
 #include "stdafx.h"
@@ -15,7 +15,7 @@ int main()
 {   
 	
 	//variaveis locais
-	char d; // caractere
+	char d; // caracteres
 	bool e;// boleano
    printf_s("Hello, World!! \n \n");
    printf("Teste\t\t\Teste \n \n");
